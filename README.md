@@ -7,5 +7,5 @@ The project was built with Eclips, and XAMPP (PHP & Apache).
 
 Eventually the PHP explode fucntion used to allocate the first and last names may be replaced with SQL database.
 
-  $firstName = explode(",", file_get_contents('FirstName.txt'));
-  $lastName = explode("\n", file_get_contents('LastName.txt'));
+  ```$firstName = explode(",", file_get_contents('FirstName.txt'));```
+  ```$lastName = explode("\n", file_get_contents('LastName.txt'));```
